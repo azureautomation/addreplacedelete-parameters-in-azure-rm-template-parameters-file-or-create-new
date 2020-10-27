@@ -1,0 +1,20 @@
+{
+    "Author": "Matt Padfield",
+    "ContentSize": 9107,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/addreplacedelete-parameters-in-azure-rm-template-parameters-file-or-create-new/master/NewAzureRmParametersFile.ps1",
+    "DownloadCount": 729,
+    "Id": "afdsdsafs-af2c0b90",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 151,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2018-3-21T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Function to add/replace/delete parameters in an Azure RM template parameters file, or to create a new one. Used to automate deployment to Azure using templates.",
+    "Title": "Add/replace/delete parameters in Azure RM template parameters file or create new",
+    "UpdatedDate": "2018-7-30T00:00:00",
+    "Url": "https://github.com/azureautomation/addreplacedelete-parameters-in-azure-rm-template-parameters-file-or-create-new",
+    "UserTags": "azure template"
+}
